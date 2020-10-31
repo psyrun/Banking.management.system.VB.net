@@ -1,3 +1,3 @@
 # Banking Management System (Visual Basic .net)
 
-## Banking management system
+## Banking management system project
